@@ -1,6 +1,6 @@
 #!/bin/sh
 mkdir $1
-cat "$1 init" >> $1/README.md
+echo "$1 init" >> $1/README.md
 mkdir $1/bin
 touch $1/bin/init
 mkdir $1/src
