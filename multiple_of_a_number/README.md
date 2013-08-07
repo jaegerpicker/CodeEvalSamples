@@ -1,0 +1,1 @@
+multiple_of_a_number init
