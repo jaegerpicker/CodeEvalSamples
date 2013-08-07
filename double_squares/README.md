@@ -1,0 +1,1 @@
+double_squares init
